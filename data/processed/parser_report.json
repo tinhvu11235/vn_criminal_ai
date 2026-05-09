@@ -1,0 +1,32 @@
+{
+  "total_pdf_files": 1,
+  "total_pages": 277,
+  "total_chunks": 892,
+  "total_articles_detected": 409,
+  "sample_articles": [
+    "Điều 1",
+    "Điều 10",
+    "Điều 108",
+    "Điều 109",
+    "Điều 11",
+    "Điều 110",
+    "Điều 111",
+    "Điều 112",
+    "Điều 113",
+    "Điều 114",
+    "Điều 115",
+    "Điều 116",
+    "Điều 117",
+    "Điều 118",
+    "Điều 119",
+    "Điều 12",
+    "Điều 120",
+    "Điều 121",
+    "Điều 122",
+    "Điều 123"
+  ],
+  "pdf_files": [
+    "135-vbhn-vpqh.pdf"
+  ],
+  "note": "Nếu số điều quá thấp hoặc chunk bị nhiễu, hãy kiểm tra chất lượng PDF/text extraction."
+}
